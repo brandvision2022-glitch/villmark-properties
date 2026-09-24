@@ -1,0 +1,6 @@
+{
+  "name": "Villamark Properties - Luxury Living & Landowner Partnerships",
+  "description": "Premier luxury real estate developer specializing in signature residential residences, interactive floor plans, and joint venture landowner partnerships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
